@@ -17,7 +17,22 @@ Notes on data management using Spark, MongoDB, AWS, BigTable, and Neo4j
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# Introduction overview
+
+- Relational databases
+- NoSQL use cases
+- Alternative data structures
+- HTCondor
+- Amazon Web Serices (AWS)
+- Familiar with various NoSQL databases
+
 # Installation
+
+## PostgreSQL
+
+You can download PostgreSQL from their [webpage][psql].
+
+[psql]: https://www.postgresql.org
 
 ## Spark
 
