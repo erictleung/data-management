@@ -57,3 +57,7 @@ Download the [community edition of Neo4j][dl-neo4j].
 ## Terminology
 
 TODO
+
+# Resources
+
+- [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
