@@ -7,6 +7,13 @@ Notes on data management using Spark, MongoDB, AWS, BigTable, and Neo4j
 
 - [Installation](#installation)
   - [Spark](#spark)
+  - [MongoDB](#mongodb)
+  - [Amazon Web Services](#amazon-web-services)
+  - [BigTable](#bigtable)
+  - [Neo4j](#neo4j)
+- [Apache Spark](#apache-spark)
+  - [Terminology](#terminology)
+- [Resources](#resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
