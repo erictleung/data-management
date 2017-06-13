@@ -74,6 +74,12 @@ Download the [community edition of Neo4j][dl-neo4j].
 
 [dl-neo4j]: https://neo4j.com/download/community-edition/
 
+**macOS**
+
+```shell
+brew install neo4j
+```
+
 # Apache Spark
 
 ## Terminology
