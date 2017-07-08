@@ -16,8 +16,8 @@ Notes on data management using Spark, MongoDB, AWS, BigTable, and Neo4j
 - Relational databases
 - NoSQL use cases
 - Alternative data structures
-- HTCondor
-- Amazon Web Serices (AWS)
+- Slurm Workload Manager
+- Amazon Web Services (AWS)
 - Familiar with various NoSQL databases
 
 ## Resources
