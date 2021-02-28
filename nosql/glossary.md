@@ -1,4 +1,0 @@
-Glossary Terms
-==============
-
-- concurrency
