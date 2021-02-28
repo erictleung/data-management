@@ -1,25 +1,21 @@
-# data-management
+# sports-popularity-in-usa
 
-Notes on data management using Spark, MongoDB, AWS, BigTable, and Neo4j
+Data project to explore the relationship between the popularity of sports and
+its accessibility.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Introduction overview](#introduction-overview)
+- [Overview](#introduction-overview)
 - [Resources](#resources)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Introduction overview
+## Overview
 
-- Relational databases
-- NoSQL use cases
-- Alternative data structures
-- Slurm Workload Manager
-- Amazon Web Services (AWS)
-- Familiar with various NoSQL databases
+TODO
 
 ## Resources
 
-- [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
+TODO
